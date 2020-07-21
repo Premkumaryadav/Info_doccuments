@@ -1,0 +1,21 @@
+Git commands
+
+git status - to check the status of the branch
+git branch - to check the branch head
+git branch -b branch name - to create the child branch
+git checkout branch name - to switch between the branches
+git init - for the first time
+git remote add origin [url of the repository]
+git push origin - to push the branch to master (here if you are doing the first time it may ask you to init the username and email follow the steps given by Git)
+git pull origin brnach name - to pull the code from the branch
+git add . - to add the files
+git commit -m "comments" - to commit the code
+git push origin branch name - to push the code to the branch which ever we want
+git stash - to save the changes locally(this will help in switching between the branches and resolving the conflicts)
+git stasg pop - to get back the saved changes locally
+
+
+
+
+
+*****Note : Update the file if you any comments :*********
